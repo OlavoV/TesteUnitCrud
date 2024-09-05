@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\migrations\\20240904175317_migrationcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\migrations\\20240904175317_migrationcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\crudteste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\crudteste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|e:\\olavo emides3am\\crudteste\\crudteste\\crudteste\\migrations\\20240904184146_migracao2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29E6AE9-D7E7-4752-95A4-39EB7EFD2203}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\migrations\\20240904184146_migracao2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudTeste\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "CrudTeste\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:12:16.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudTeste\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "CrudTeste\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:06:30.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudTeste\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudTeste\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:03:59.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudTeste\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudTeste\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:02:59.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CrudTeste\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CrudTeste\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T18:03:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CrudTeste\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CrudTeste\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T18:03:22.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Controllers\\ClienteController.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "CrudTeste\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:02:35.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CrudTeste\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:52:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Context\\AppDbContext.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CrudTeste\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:50:23.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240904175317_migrationcrud.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Migrations\\20240904175317_migrationcrud.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Migrations\\20240904175317_migrationcrud.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Migrations\\20240904175317_migrationcrud.cs",
+              "RelativeToolTip": "CrudTeste\\Migrations\\20240904175317_migrationcrud.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:53:17.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Models\\Cliente.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Models\\Cliente.cs",
+              "RelativeToolTip": "CrudTeste\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:52:38.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240904184146_migracao2.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Migrations\\20240904184146_migracao2.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Migrations\\20240904184146_migracao2.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Migrations\\20240904184146_migracao2.cs",
+              "RelativeToolTip": "CrudTeste\\Migrations\\20240904184146_migracao2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:41:47.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudTeste\\appsettings.json",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\appsettings.json",
+              "RelativeToolTip": "CrudTeste\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T17:51:15.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Program.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Program.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Program.cs",
+              "RelativeToolTip": "CrudTeste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:50:06.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudTeste\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:40:06.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrudTeste.csproj",
+              "DocumentMoniker": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\CrudTeste.csproj",
+              "RelativeDocumentMoniker": "CrudTeste\\CrudTeste.csproj",
+              "ToolTip": "E:\\Olavo EMIDES3AM\\CrudTeste\\CrudTeste\\CrudTeste\\CrudTeste.csproj",
+              "RelativeToolTip": "CrudTeste\\CrudTeste.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T17:30:17.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
